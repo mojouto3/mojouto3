@@ -2,7 +2,7 @@
   <img src="https://github.com/mojouto3/mojouto3/blob/main/mojomultimedia_github_banner.png?raw=true" width="100%">
 </p>
 
-## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/mojouto3">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mojouto3&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="mojouto3's GitHub Stats" />
@@ -15,9 +15,9 @@
 </p>
 
 
-## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
@@ -44,7 +44,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-## Hi there 👋
+
 
 <!--
 **mojouto3/mojouto3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
