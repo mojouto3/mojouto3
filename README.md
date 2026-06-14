@@ -9,9 +9,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=mojouto3&theme=merko&hide_border=true&cache_seconds=86400" alt="mojouto3's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=mojouto3&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="mojomultimedia's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mojouto3&theme=merko&radius=10" alt="mojouto3's Activity Graph" />
 </p>
