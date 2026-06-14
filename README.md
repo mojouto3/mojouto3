@@ -1,5 +1,5 @@
-<img src="https://media.discordapp.net/attachments/1028063421003988992/1340331408748711966/mm_big.png?ex=6a2f65a5&is=6a2e1425&hm=e24d0433bf8d47b92f9ff9e1d973ff02b514736c101322e1426a699b915d6f35&=&format=webp&quality=lossless&width=1906&height=1320" alt="Banner" width="100%" />
-
+[<img src="https://media.discordapp.net/attachments/1028063421003988992/1340331408748711966/mm_big.png?ex=6a2f65a5&is=6a2e1425&hm=e24d0433bf8d47b92f9ff9e1d973ff02b514736c101322e1426a699b915d6f35&=&format=webp&quality=lossless&width=1906&height=1320" alt="Banner" width="100%" />
+](https://github.com/mojouto3/mojouto3/blob/main/mojomultimedia_github_banner.png?raw=true)
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/mojouto3">
