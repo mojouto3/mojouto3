@@ -1,4 +1,7 @@
-https://github.com/mojouto3/mojouto3/blob/main/mojomultimedia_github_banner.png?raw=true
+<p align="center">
+  <img src="https://github.com/mojouto3/mojouto3/blob/main/mojomultimedia_github_banner.png?raw=true" width="100%">
+</p>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/mojouto3">
